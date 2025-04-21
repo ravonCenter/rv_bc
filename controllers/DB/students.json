@@ -1,0 +1,24 @@
+[
+  {
+    "id": null,
+    "name": "sdfskfsdj",
+    "grade": "fdsjknsdjf",
+    "achievements": [
+      "dfslndfksjd"
+    ],
+    "imageUrl": "1743657811071-866823308.jpg",
+    "createdAt": "2025-04-03T05:23:31.118Z",
+    "updatedAt": "2025-04-03T05:23:31.150Z"
+  },
+  {
+    "id": 1,
+    "name": "Muzaffar Abduqodirov",
+    "grade": "100",
+    "achievements": [
+      "4.9 rate of GPA"
+    ],
+    "imageUrl": "1743658358520-397337360.jpg",
+    "createdAt": "2025-04-03T05:32:38.531Z",
+    "updatedAt": "2025-04-03T05:32:38.533Z"
+  }
+]
